@@ -18,6 +18,8 @@ Cream un repozitoriu containers05 și il copiam pe computerul dvs.
 
 În directorul containers05 cream directorul mounts/site. În acest director copiam site-ul PHP creat în cadrul cursului Programare PHP.
 
+![image](https://github.com/user-attachments/assets/a1ec2c0b-2da5-433e-9648-eb51d73c5054)
+
 Cream fișierul .gitignore în rădăcina proiectului și adăugam următoarele linii:
 
 ![428401371-a73368f2-ef3a-4b92-8dd1-5cc5cd2f9ba5](https://github.com/user-attachments/assets/ebf3a1ce-b573-4891-9ae9-3c0db2414241)
